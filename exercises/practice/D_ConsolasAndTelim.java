@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 004_ConsolasAndTelim
+public class D_ConsolasAndTelim
 {
     public static void main(String[] args)
     {

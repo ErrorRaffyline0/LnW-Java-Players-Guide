@@ -1,4 +1,4 @@
-public class 003_TheMakingsOfAProgrammer
+public class C_TheMakingsOfAProgrammer
 {
     public static void main(String[] args)
     {

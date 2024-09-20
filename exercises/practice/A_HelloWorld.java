@@ -1,4 +1,4 @@
-public class 001_HelloWorld
+public class A_HelloWorld
 {
     public static void main(String[] args)
     {
