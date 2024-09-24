@@ -17,7 +17,7 @@ public class TheVariableShop {
         DecimalFormat hour = new DecimalFormat("#");
 
         if (existence) {
-            System.out.println(Childe + " (codename \34Childe\34), " + "is a playable character in Genshin Impact.");
+            System.out.println(Childe + " (codename \"Childe\"), " + "is a playable character in Genshin Impact.");
             System.out.println("His character ID is " + ID + ".");
             System.out.println("His family name is " + initial + "jax.");
             System.out.println(Childe + " is No. " + number + " of the Fatui Harbingers.");
