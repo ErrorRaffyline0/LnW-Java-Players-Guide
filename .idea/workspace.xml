@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LnW_Java Preparation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/outputs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/H_TheTriangleFarmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/H_TheTriangleFarmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/I_TheFourSistersAndTheDuckbear.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/I_TheFourSistersAndTheDuckbear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/K_TheDefenseOfConsolas.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/K_TheDefenseOfConsolas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/N_BuyingInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/N_BuyingInventory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +27,25 @@
     <option name="showScratchesAndConsoles" value="false" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application..\\Practice Builder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.G_TheVariableShopReturns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.M_WatchTower.executor&quot;: &quot;Run&quot;,
-    &quot;Application.M_Watchtower.executor&quot;: &quot;Run&quot;,
-    &quot;Application.everythingg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application..\\Practice Builder.executor": "Run",
+    "Application.G_TheVariableShopReturns.executor": "Run",
+    "Application.M_WatchTower.executor": "Run",
+    "Application.M_Watchtower.executor": "Run",
+    "Application.everythingg.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name=".\Practice Builder" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="MAIN_CLASS_NAME" value="main" />
