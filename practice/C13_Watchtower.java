@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class M_Watchtower {
+public class C13_Watchtower {
     public static void main(String[] args) {
         Scanner location = new Scanner(System.in);
         System.out.println("input x coordinates");

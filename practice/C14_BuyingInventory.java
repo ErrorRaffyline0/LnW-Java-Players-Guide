@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N_BuyingInventory {
+public class C14_BuyingInventory {
     public static void main(String[] args){
         Scanner ledger = new Scanner(System.in);
         System.out.println("The following items are available:");
@@ -11,7 +11,7 @@ public class N_BuyingInventory {
         System.out.println("5. Machete");
         System.out.println("6. Canoe");
         System.out.println("7. Food Supplies");
-        System.out.println("What number do you want to see the price of?:");
+        System.out.println("What number do you want to see the price of?");
         int itemnumber = ledger.nextInt();
         String item = "";
         switch (itemnumber) {

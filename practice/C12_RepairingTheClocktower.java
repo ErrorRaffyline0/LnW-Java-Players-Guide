@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L_RepairingTheClocktower {
+public class C12_RepairingTheClocktower {
     public static void main(String[] args) {
         Scanner TickTock = new Scanner(System.in);
         System.out.println("input number");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J_TheDominionOfKings {
+public class C10_TheDominionOfKings {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter your name:");

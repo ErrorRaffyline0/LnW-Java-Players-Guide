@@ -1,4 +1,4 @@
-public class B_WhatComesNext
+public class C2_WhatComesNext
 {
     public static void main(String[] args)
     {

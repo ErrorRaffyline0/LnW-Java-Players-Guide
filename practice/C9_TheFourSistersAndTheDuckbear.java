@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class I_TheFourSistersAndTheDuckbear {
+public class C9_TheFourSistersAndTheDuckbear {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         long sisters = 4;

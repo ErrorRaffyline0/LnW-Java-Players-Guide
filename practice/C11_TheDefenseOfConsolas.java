@@ -1,7 +1,7 @@
 import java.awt.Toolkit;
 import java.util.Scanner;
 
-public class K_TheDefenseOfConsolas {
+public class C11_TheDefenseOfConsolas {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String ANSI_Instr = "\u001B[38;5;208m";
