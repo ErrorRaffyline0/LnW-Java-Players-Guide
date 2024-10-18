@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/C15_DiscountedInventory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/A_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C1_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/B_WhatComesNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C2_WhatComesNext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C_TheMakingsOfAProgrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C3_TheMakingsOfAProgrammer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/D_ConsolasAndTelim.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C4_ConsolasAndTelim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/E_TheThingNamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C5_TheThingNamer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/F_TheVariableShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C6_TheVariableShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/G_TheVariableShopReturns.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C7_TheVariableShopReturns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/H_TheTriangleFarmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C8_TheTriangleFarmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/I_TheFourSistersAndTheDuckbear.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C9_TheFourSistersAndTheDuckbear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/J_TheDominionOfKings.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C10_TheDominionOfKings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/K_TheDefenseOfConsolas.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C11_TheDefenseOfConsolas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/L_RepairingTheClocktower.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C12_RepairingTheClocktower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/M_Watchtower.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C13_Watchtower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/N_BuyingInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C14_BuyingInventory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
