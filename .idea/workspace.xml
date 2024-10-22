@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="" />
+    <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/C18_TheReplicatorOfDTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/background_electro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/background_overloaded.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/background_pyro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/foreground_electro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/foreground_overloaded.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/foreground_pyro.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
