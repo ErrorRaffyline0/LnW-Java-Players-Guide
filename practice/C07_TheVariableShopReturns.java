@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 
-public class C7_TheVariableShopReturns {
+public class C07_TheVariableShopReturns {
     public static void main(String[] args) {
         String Childe = "Kaveh";
         int ID = 10000081;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C8_TheTriangleFarmer {
+public class C08_TheTriangleFarmer {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Input base below this line :3");

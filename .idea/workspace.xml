@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/C18_TheReplicatorOfDTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/background_electro.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/background_overloaded.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/background_pyro.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/foreground_electro.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/foreground_overloaded.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/foreground_pyro.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C19_TheLawsOfFreach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C1_HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C2_WhatComesNext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C3_TheMakingsOfAProgrammer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C4_ConsolasAndTelim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C5_TheThingNamer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C6_TheVariableShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C7_TheVariableShopReturns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C8_TheTriangleFarmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C9_TheFourSistersAndTheDuckbear.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +49,10 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
   <component name="RunManager">

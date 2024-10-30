@@ -1,4 +1,4 @@
-public class C2_WhatComesNext
+public class C02_WhatComesNext
 {
     public static void main(String[] args)
     {

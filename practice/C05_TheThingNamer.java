@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C5_TheThingNamer
+public class C05_TheThingNamer
 {
 public static void main(String[] args)
     {
