@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class C15_DiscountedInventory {
     public static void main(String[] args){
-        Scanner ledger = new Scanner(System.in);
         System.out.println("The following items are available:");
         System.out.println("1. Rope");
         System.out.println("2. Torches");
@@ -12,8 +11,7 @@ public class C15_DiscountedInventory {
         System.out.println("5. Machete");
         System.out.println("6. Canoe");
         System.out.println("7. Food Supplies");
-        System.out.println("What number do you want to see the price of?");
-        int itemnumber = ledger.nextInt();
+        int itemnumber = C20_TakingANumber.askForNumberInRange("What number do you want to see the price of?",1,7);
         String item = "";
         switch (itemnumber) {
             case 1:

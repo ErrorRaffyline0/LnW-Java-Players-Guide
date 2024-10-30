@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/C19_TheLawsOfFreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C20_TakingANumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C1_HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C2_WhatComesNext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C3_TheMakingsOfAProgrammer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C4_ConsolasAndTelim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C5_TheThingNamer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C6_TheVariableShop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C7_TheVariableShopReturns.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C8_TheTriangleFarmer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/C9_TheFourSistersAndTheDuckbear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C14_BuyingInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C14_BuyingInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C15_DiscountedInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C15_DiscountedInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C16_ThePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C16_ThePrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/C18_TheReplicatorOfDTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/C18_TheReplicatorOfDTo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

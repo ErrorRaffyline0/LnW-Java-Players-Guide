@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class C18_TheReplicatorOfDTo {
     public static void main(String[] args) {
@@ -7,10 +6,8 @@ public class C18_TheReplicatorOfDTo {
         int[] Array1 = new int[a];
         int[] Array2 = new int[a];
         a = 0;
-        Scanner input = new Scanner(System.in);
         while (a < Array1.length) {
-            System.out.print("Enter a numerical value to put into array index " + a + ": ");
-            Array1[a] = Integer.parseInt(input.nextLine());
+            Array1[a] = C20_TakingANumber.askForNumber("Enter a numerical value to put into array index " + a + ": ");
             Array2[a] = Array1[a];
             a++;
         }
