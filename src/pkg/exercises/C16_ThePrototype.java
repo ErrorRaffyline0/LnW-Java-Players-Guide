@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 public class C16_ThePrototype {
     public static void main(String[] args) {
         String Pilot = "Raffy";

@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 public class C21_Countdown {
     public static void main(String[] args) {
         int result = min(10);

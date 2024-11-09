@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 import java.util.Arrays;
 
 public class C18_TheReplicatorOfDTo {

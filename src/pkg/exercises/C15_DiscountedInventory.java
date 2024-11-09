@@ -1,4 +1,9 @@
-public class C14_BuyingInventory {
+package pkg.exercises;
+
+import java.text.DecimalFormat;
+import java.util.Scanner;
+
+public class C15_DiscountedInventory {
     public static void main(String[] args){
         System.out.println("The following items are available:");
         System.out.println("1. Rope");
@@ -33,7 +38,8 @@ public class C14_BuyingInventory {
                 item = "Food Supplies";
                 break;
         }
-        int price = 0;
+        double price = 0;
+        DecimalFormat gold = new DecimalFormat("#.##");
         switch (item) {
             case "Rope":
                 price = 10;
@@ -57,6 +63,14 @@ public class C14_BuyingInventory {
                 price = 1;
                 break;
         }
-        System.out.println(item + " cost " + price + " gold.");
+        Scanner name = new Scanner(System.in);
+        System.out.println("By the way, what is your name?");
+        String user = name.nextLine();
+        switch (user) {
+            case "Raffy":
+                price = price / 2;
+                break;
+            }
+        System.out.println(item + " cost " + (gold.format(price)) + " gold.");
     }
 }

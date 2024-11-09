@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 import java.awt.Toolkit;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 import java.text.DecimalFormat;
 
 public class C06_TheVariableShop {

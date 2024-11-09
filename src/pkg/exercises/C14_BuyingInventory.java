@@ -1,7 +1,6 @@
-import java.text.DecimalFormat;
-import java.util.Scanner;
+package pkg.exercises;
 
-public class C15_DiscountedInventory {
+public class C14_BuyingInventory {
     public static void main(String[] args){
         System.out.println("The following items are available:");
         System.out.println("1. Rope");
@@ -36,8 +35,7 @@ public class C15_DiscountedInventory {
                 item = "Food Supplies";
                 break;
         }
-        double price = 0;
-        DecimalFormat gold = new DecimalFormat("#.##");
+        int price = 0;
         switch (item) {
             case "Rope":
                 price = 10;
@@ -61,14 +59,6 @@ public class C15_DiscountedInventory {
                 price = 1;
                 break;
         }
-        Scanner name = new Scanner(System.in);
-        System.out.println("By the way, what is your name?");
-        String user = name.nextLine();
-        switch (user) {
-            case "Raffy":
-                price = price / 2;
-                break;
-            }
-        System.out.println(item + " cost " + (gold.format(price)) + " gold.");
+        System.out.println(item + " cost " + price + " gold.");
     }
 }

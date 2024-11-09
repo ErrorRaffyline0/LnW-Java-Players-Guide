@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 public class C17_TheMagicCannon {
     public static void main(String[] args) {
         int crank = 1;

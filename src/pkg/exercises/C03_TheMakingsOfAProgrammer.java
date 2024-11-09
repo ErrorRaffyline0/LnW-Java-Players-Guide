@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 public class C03_TheMakingsOfAProgrammer
 {
     public static void main(String[] args)

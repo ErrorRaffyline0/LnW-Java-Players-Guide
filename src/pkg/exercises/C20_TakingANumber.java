@@ -1,3 +1,5 @@
+package pkg.exercises;
+
 import java.util.Scanner;
 
 public class C20_TakingANumber {
