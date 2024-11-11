@@ -1,5 +1,5 @@
 package pkg.eindopdracht;
-//import pkg.gacha.wish;
+//import pkg.eindopdracht.gacha.wish;
 
 public class eindopdracht01 {
     public static void main(String[] args) {
