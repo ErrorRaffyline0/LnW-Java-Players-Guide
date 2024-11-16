@@ -11,13 +11,10 @@ public class wish {
             case 1:
                 bannernumber = 1;
                 System.out.println("You have selected the banner: \"Farewell of Snezhnaya\"");
-                FarewellOfSnezhnaya();
-                break;
-        }
     }
 
     public static Float FeatBannerOdds(boolean RateUpFiveStar, boolean RateUpFourStar, int FiveStarPity, int FourStarPity) { // manages odds, referenced by the banner
-        float RateUpOverRegOdds = 0.5F
+        float RateUpOverRegOdds = 0.5F;
         if (FiveStarPity < 74) {
             float FiveStarOdds = 0.006F;
         }
