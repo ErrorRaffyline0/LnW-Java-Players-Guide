@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="progress, do not attempt compile">
+    <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="refined error handling on eindopdracht02">
+      <change afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/FarewellOfSnezhnaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/FarewellOfSnezhnaya.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/wish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/wish.java" afterDir="false" />
     </list>
@@ -40,34 +42,34 @@
     <option name="showScratchesAndConsoles" value="false" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application..\\Practice Builder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C20_TakingANumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C21_Countdown.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CaesarCode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.G_TheVariableShopReturns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.M_WatchTower.executor&quot;: &quot;Run&quot;,
-    &quot;Application.M_Watchtower.executor&quot;: &quot;Run&quot;,
-    &quot;Application.eindopdracht02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.everythingg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.snelheid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.temperatuur.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tijden.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wish.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rafae/Java/LnW_Java/Player's Guide&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application..\\Practice Builder.executor": "Run",
+    "Application.C20_TakingANumber.executor": "Run",
+    "Application.C21_Countdown.executor": "Run",
+    "Application.CaesarCode.executor": "Run",
+    "Application.G_TheVariableShopReturns.executor": "Run",
+    "Application.M_WatchTower.executor": "Run",
+    "Application.M_Watchtower.executor": "Run",
+    "Application.eindopdracht02.executor": "Run",
+    "Application.everythingg.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.snelheid.executor": "Run",
+    "Application.temperatuur.executor": "Run",
+    "Application.tijden.executor": "Run",
+    "Application.wish.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rafae/Java/LnW_Java/Player's Guide",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.eindopdracht02">
     <configuration name="CaesarCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pkg.CaesarCode" />
@@ -145,10 +147,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.eindopdracht02" />
-        <item itemvalue="Application.CaesarCode" />
-        <item itemvalue="Application.snelheid" />
-        <item itemvalue="Application.temperatuur" />
         <item itemvalue="Application.tijden" />
+        <item itemvalue="Application.temperatuur" />
+        <item itemvalue="Application.snelheid" />
+        <item itemvalue="Application.CaesarCode" />
       </list>
     </recent_temporary>
   </component>
@@ -193,8 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731337115038</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refined error handling on eindopdracht02">
+      <option name="closed" value="true" />
+      <created>1731926644059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731926644059</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="Path" value="/c/Users/rafae/bin:/usr/local/bin:/usr/bin:/bin:/opt/bin:/c/Python311/Scripts:/c/Python311:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/Program Files (x86)/Intel/iCLS Client:/c/Program Files/Intel/iCLS Client:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT:/c/Program Files/Intel/Intel(R) Management Engine Components/IPT:/c/Program Files (x86)/Windows Live/Shared:/c/WINDOWS/System32/OpenSSH:/c/Program Files/Intel/WiFi/bin:/c/Program Files/Common Files/Intel/WirelessCommon:/c/Program Files/dotnet:/c/Program Files/nodejs:/c/ProgramData/chocolatey/bin:/cmd:/c/Users/rafae/.jdks/jbr-17.0.12/bin:/c/Users/rafae/AppData/Local/Programs/Python/Python37/Scripts:/c/Users/rafae/AppData/Local/Programs/Python/Python37:/c/Users/rafae/AppData/Local/Microsoft/WindowsApps:/c/Program Files/Intel/WiFi/bin:/c/Program Files/Common Files/Intel/WirelessCommon:/c/Users/rafae/AppData/Roaming/npm:/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2024.2.1/bin:/usr/bin/vendor_perl:/usr/bin/core_perl" />
+    </envs>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -224,7 +239,8 @@
     <MESSAGE value="adds C21, fixes non-updated gitignore and removes redundant folder naming" />
     <MESSAGE value="adds C21 and removes redundant folder naming" />
     <MESSAGE value="progress, do not attempt compile" />
-    <option name="LAST_COMMIT_MESSAGE" value="progress, do not attempt compile" />
+    <MESSAGE value="refined error handling on eindopdracht02" />
+    <option name="LAST_COMMIT_MESSAGE" value="refined error handling on eindopdracht02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -236,5 +252,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="max" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

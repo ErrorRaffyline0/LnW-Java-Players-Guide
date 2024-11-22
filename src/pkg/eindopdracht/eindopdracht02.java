@@ -2,6 +2,7 @@ package pkg.eindopdracht;
 import java.util.Scanner;
 
 public class eindopdracht02 {
+
     public static void main(String[] args) {
         boolean JobDone = false;
         int start = 0;
@@ -73,7 +74,6 @@ public class eindopdracht02 {
     public static int CheckInput() {
         Scanner input = new Scanner(System.in);
         System.out.print("Input an integer: ");
-        input.hasNextInt();
         if (!input.hasNextInt()) {
             System.out.println("Not an integer!");
             return CheckInput();

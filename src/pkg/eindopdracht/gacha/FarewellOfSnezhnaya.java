@@ -1,3 +1,4 @@
+/*
 package pkg.eindopdracht.gacha;
 
 import pkg.exercises.C20_TakingANumber;
@@ -27,3 +28,4 @@ public class FarewellOfSnezhnaya {
 
     }
 }
+*/
