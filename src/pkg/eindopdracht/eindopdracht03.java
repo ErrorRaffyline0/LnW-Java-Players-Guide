@@ -2,14 +2,9 @@ package pkg.eindopdracht;
 import java.util.Scanner;
 
 public class eindopdracht03 {
-    int Lucas(Num n1, Num n2) {
-
-    }
-
-    public void main(String[] args) {
-        NaturalInput();
-        Lucas(2,1)
-
+    public static void main(String[] args) {
+        int n = NaturalInput();
+        Lucas(n);
     }
 
     public static int NaturalInput() {
@@ -19,26 +14,32 @@ public class eindopdracht03 {
             System.out.println("Not an integer!");
             return NaturalInput();
         }
-        if (input.nextInt() <= 0) {
+        int n = input.nextInt();
+        if (n <= 0) {
             System.out.println("Value is not positive!");
             return NaturalInput();
         }
-        return input.nextInt();
+        if (n > 23) {
+            System.out.println("Natural value will result in integer overflow during Lucas number calculation!");
+            return NaturalInput();
+        }
+        return n;
     }
 
-    class Num {
-        private int num;
-
-        Num(int newNum) {
-            num = newNum;
+    public static int Lucas(int n) {
+        int a = 2;
+        int b = 1;
+        System.out.println("De eerste " + n + " Lucas-getallen:\n");
+        if (n > 1) {
+            System.out.print(a + " ");
         }
-
-        public int getNum() {
-            return num;
+        if (n > 2) {
+            System.out.print(b + " ");
         }
-
-        public void setNum(int newNum) {
-            num = newNum;
+        for (int i = 3; n >= i; System.out.print((b += a) + " ")) {
+            System.out.print((a += b) + " ");
+            i++;
         }
+        return 0;
     }
 }

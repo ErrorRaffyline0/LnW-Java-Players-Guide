@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="refined error handling on eindopdracht02">
-      <change afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht03.java" afterDir="false" />
+    <list default="true" id="1f287ad7-4147-4433-b6ea-acae192f7245" name="Changes" comment="refined eindopdracht02 and started eindopdracht03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/FarewellOfSnezhnaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/FarewellOfSnezhnaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/wish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/gacha/wish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pkg/eindopdracht/eindopdracht03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,9 @@
     "Application.G_TheVariableShopReturns.executor": "Run",
     "Application.M_WatchTower.executor": "Run",
     "Application.M_Watchtower.executor": "Run",
+    "Application.eibofobie.executor": "Run",
     "Application.eindopdracht02.executor": "Run",
+    "Application.eindopdracht03.executor": "Debug",
     "Application.everythingg.executor": "Run",
     "Application.main.executor": "Run",
     "Application.snelheid.executor": "Run",
@@ -70,9 +69,17 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.eindopdracht02">
-    <configuration name="CaesarCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pkg.CaesarCode" />
+  <component name="RunManager" selected="Application.eindopdracht03">
+    <configuration name=".\Practice Builder" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="LnW Java Player's Guide" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eibofobie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg.eibofobie" />
       <module name="LnW Java Player's Guide" />
       <extension name="coverage">
         <pattern>
@@ -80,14 +87,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name=".\Practice Builder" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="LnW Java Player's Guide" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="snelheid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pkg.snelheid" />
+    <configuration name="eindopdracht03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg.eindopdracht.eindopdracht03" />
       <module name="LnW Java Player's Guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pkg.*" />
+          <option name="PATTERN" value="pkg.eindopdracht.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.eindopdracht03" />
+        <item itemvalue="Application.eibofobie" />
         <item itemvalue="Application.eindopdracht02" />
         <item itemvalue="Application.tijden" />
         <item itemvalue="Application.temperatuur" />
-        <item itemvalue="Application.snelheid" />
-        <item itemvalue="Application.CaesarCode" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731926644059</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refined eindopdracht02 and started eindopdracht03">
+      <option name="closed" value="true" />
+      <created>1732286591959</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732286591959</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -240,7 +247,8 @@
     <MESSAGE value="adds C21 and removes redundant folder naming" />
     <MESSAGE value="progress, do not attempt compile" />
     <MESSAGE value="refined error handling on eindopdracht02" />
-    <option name="LAST_COMMIT_MESSAGE" value="refined error handling on eindopdracht02" />
+    <MESSAGE value="refined eindopdracht02 and started eindopdracht03" />
+    <option name="LAST_COMMIT_MESSAGE" value="refined eindopdracht02 and started eindopdracht03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -254,7 +262,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="max" />
+        <watch expression="max" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
