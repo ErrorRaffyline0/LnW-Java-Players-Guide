@@ -26,7 +26,7 @@ public class eindopdracht03 {
         return n;
     }
 
-    public static int Lucas(int n) {
+    public static void Lucas(int n) {
         int a = 2;
         int b = 1;
         System.out.println("De eerste " + n + " Lucas-getallen:\n");
@@ -40,6 +40,5 @@ public class eindopdracht03 {
             System.out.print((a += b) + " ");
             i++;
         }
-        return 0;
     }
 }
